@@ -1,4 +1,4 @@
-# CrisMAC AXIS NPA — Multi App Monorepo Comprehensive Overview
+# CrisMAC AXIS NPA — Multi App Monorepo Plan Expansion Comprehensive Overview
 
 > **Purpose:** Full architectural map of the monorepo for planning monorepo expansion.
 > **Generated:** 2026-04-04
