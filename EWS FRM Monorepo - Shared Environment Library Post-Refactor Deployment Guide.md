@@ -4,7 +4,7 @@
 **Date:** 2026-02-06
 **Applies To:** Shared Environment Library Architecture
 
----
+--- 
 
 ## 📋 Table of Contents
 
