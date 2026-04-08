@@ -1,4 +1,4 @@
-# Environment Architecture Refactoring Proposal
+# EWS FRM Environment Architecture Refactoring Proposal
 
 **Document Version:** 1.0
 **Date:** 2026-02-06
