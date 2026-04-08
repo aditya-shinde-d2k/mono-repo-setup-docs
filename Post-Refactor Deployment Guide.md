@@ -1,4 +1,4 @@
-# Post-Refactor Deployment Guide
+# EWS FRM Monorepo - Shared Environment Library Architecture Post-Refactor Deployment Guide
 
 **Status:** How Deployment Works AFTER Refactoring
 **Date:** 2026-02-06
